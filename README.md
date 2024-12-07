@@ -1,6 +1,6 @@
-# status_saver
+# Status Saver
 
-A new Flutter project.
+A whatsapp status saver to store whatsapp watched statuses in you mobile gallery
 
 ## Getting Started
 
