@@ -1,6 +1,6 @@
 # Status Saver
 
-A whatsapp status saver to store whatsapp watched statuses in you mobile gallery
+A whatsapp status saver to store whatsapp watched statuses in your mobile gallery
 
 ## Getting Started
 
